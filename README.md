@@ -49,4 +49,4 @@ To run this simulation locally, you must have [Eclipse SUMO](https://eclipse.dev
 *(Note: Press the 'Play' button in the SUMO GUI and adjust the delay parameter to observe the traffic flow visually.)*
 
 ## 📄 Full Technical Report
-This repository contains the core simulation files and visual data summaries. For a deep dive into the methodology, time-scaling algorithms, mathematical formulations, and a detailed breakdown of the statistical results, please feel free to contact me directly to request the full academic report.
+This repository contains the core simulation files and visual data summaries. For a deep dive into the methodology or results please feel free to contact me directly to request the full academic report.
