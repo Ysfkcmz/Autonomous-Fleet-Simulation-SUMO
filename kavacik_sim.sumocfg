@@ -1,0 +1,14 @@
+<configuration>
+    <input>
+        <net-file value="kavacik.net.xml"/>
+        <additional-files value="poly1.add.xml"/>
+        <route-files value="kavacik.rou.xml, taksi_senaryo.rou.xml"/>
+    </input>
+    <gui_only>
+        <start value="true"/>
+        <delay value="100"/>
+    </gui_only>
+    <output>
+        <tripinfo-output value="analiz_raporu.xml"/>
+    </output>
+</configuration>

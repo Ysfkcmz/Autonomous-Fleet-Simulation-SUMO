@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!-- generated on 2026-05-25T14:04:49.638804+03:00 by Eclipse SUMO netedit 1.26.0
+-->
+
+<additional xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://sumo.dlr.de/xsd/additional_file.xsd">
+    <!-- StoppingPlaces -->
+    <busStop id="bs_2" lane="230344502_0" startPos="6.73" endPos="16.73"/>
+    <busStop id="d1" lane="230342219#1_0" startPos="38.46" endPos="48.46"/>
+    <busStop id="d10" lane="230344498#1_0" startPos="27.47" endPos="37.47"/>
+    <busStop id="d11" lane="135266357_0" startPos="44.55" endPos="54.55"/>
+    <busStop id="d12" lane="216913400#2_0" startPos="6.60" endPos="16.60"/>
+    <busStop id="d13" lane="230341984#1_0" startPos="90.20" endPos="100.20"/>
+    <busStop id="d14" lane="-456212953#0_0" startPos="0.00" endPos="7.42"/>
+    <busStop id="d15" lane="-216916663#6_0" startPos="34.69" endPos="44.69"/>
+    <busStop id="d16" lane="518836615#1_0" startPos="0.38" endPos="10.38"/>
+    <busStop id="d17" lane="-216916701_0" startPos="68.76" endPos="78.76"/>
+    <busStop id="d18" lane="-216916706#3_0" startPos="14.77" endPos="24.77"/>
+    <busStop id="d19" lane="216916664#1_0" startPos="18.54" endPos="28.54"/>
+    <busStop id="d2" lane="-230342216#0_0" startPos="10.95" endPos="20.95"/>
+    <busStop id="d20" lane="1065744358#2_0" startPos="20.03" endPos="30.03"/>
+    <busStop id="d21" lane="216913394_0" startPos="0.00" endPos="8.01"/>
+    <busStop id="d22" lane="230341983_0" startPos="148.71" endPos="158.71"/>
+    <busStop id="d23" lane="-230344915#4_0" startPos="30.45" endPos="40.45"/>
+    <busStop id="d24" lane="495040852#4_0" startPos="16.59" endPos="26.59"/>
+    <busStop id="d3" lane="135266370#1_0" startPos="15.56" endPos="25.56"/>
+    <busStop id="d4" lane="1426472478_0" startPos="6.83" endPos="16.83"/>
+    <busStop id="d5" lane="230341980_0" startPos="0.00" endPos="9.91"/>
+    <busStop id="d6" lane="230344915#6_0" startPos="12.79" endPos="22.79"/>
+    <busStop id="d8" lane="-230344915#8_0" startPos="21.48" endPos="31.48"/>
+    <busStop id="d9" lane="230344915#8_0" startPos="150.60" endPos="160.60"/>
+    <parkingArea id="garaj_kavacik" lane="230342216#0_0" roadsideCapacity="5"/>
+    <!-- Shapes -->
+    <poly id="H_fsm" name="fsm hastane" color="255,43,14" fill="1" layer="0.00" shape="1753.949524,905.741604 1761.932784,938.529993 1804.985365,945.943021 1796.209791,915.959255 1789.559345,911.485319 1754.130606,906.044045"/>
+    <poly id="beykav" name="beykav" color="blue" fill="1" layer="0.00" shape="2112.167413,947.780110 2102.345189,911.848302 2141.698241,905.362743 2146.425004,908.990259 2156.208305,937.680612 2153.570112,942.297451 2111.578866,947.573838"/>
+    <poly id="dugunsalon" name="dugunslonu" color="255,129,12" fill="1" layer="0.00" shape="1948.699535,1038.704147 1956.966601,1065.776517 2015.017758,1065.503977 2015.017758,1038.431606 2010.657108,1036.705515 1948.517841,1039.067534"/>
+    <poly id="ev1" name="ev1" color="magenta" fill="1" layer="0.00" shape="2440.023554,775.146876 2447.426830,814.738311 2483.638508,811.680436 2479.936870,772.732764 2439.701672,775.307817 2440.989198,777.882870 2446.944008,774.342172"/>
+    <poly id="po_0" color="blue" fill="1" layer="0.00" shape="1951.559138,1271.380179 1964.212434,1246.073586 1994.008906,1237.093828 1995.233419,1262.400420 1988.702685,1275.461888 1951.559138,1270.155667"/>
+    <poly id="po_1" color="magenta" fill="1" layer="0.00" shape="1649.749826,1368.190481 1656.813556,1383.887657 1661.915138,1439.612636 1637.976943,1440.789924 1610.506884,1407.433423 1612.469031,1390.951387 1618.747902,1390.558958 1631.698073,1374.861781 1651.319544,1370.545057"/>
+    <poly id="po_2" color="magenta" fill="1" layer="0.00" shape="1878.041061,806.822704 1920.515320,824.108740 1930.886941,809.786025 1972.373427,759.903465 1973.855087,751.013504 1952.617957,735.703015 1888.412683,792.993876 1879.522721,807.810478"/>
+    <poly id="po_3" color="blue" fill="1" layer="0.00" shape="2560.687805,1399.850975 2589.372746,1371.166034 2604.910423,1400.448578 2615.667276,1406.424608 2586.384732,1427.340711 2561.285408,1399.253372"/>
+    <poly id="po_4" color="0,255,40" fill="1" layer="0.00" shape="1698.415315,1012.901372 1679.153733,923.507873 1707.305277,921.038440 1731.505726,1014.876918 1697.921429,1012.407485"/>
+    <poly id="po_5" color="0,255,40" fill="1" layer="0.00" shape="2191.257296,1370.106362 2193.007197,1326.358839 2238.504621,1379.730818 2271.752739,1392.855075 2262.128284,1418.228638 2191.257296,1368.356461"/>
+    <poly id="po_6" color="0,255,40" fill="1" layer="0.00" shape="1876.369056,1022.922803 1855.370245,949.426963 1896.492917,949.426963 1919.241629,1026.422605 1874.619156,1021.172902"/>
+    <poly id="po_7" color="0,255,40" fill="1" layer="0.00" shape="2527.651046,1134.109752 2525.264817,1098.316324 2573.784798,1101.497962 2578.557255,1112.633695 2526.855636,1134.109752"/>
+    <!-- Rerouter -->
+    <rerouter id="rr_taksi" pos="2162.84,930.14" edges="230342216#0" vTypes="taksi_tipi">
+        <interval begin="0.00" end="86400.00">
+            <parkingAreaReroute id="garaj_kavacik"/>
+        </interval>
+    </rerouter>
+</additional>
